@@ -4,3 +4,12 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/multiple-cursors"]
+	path = bundle/multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "bundle/translator"]
+	path = bundle/translator
+	url = https://github.com/FuDesign2008/translator.vim.git
+[submodule "bundle/ppt"]
+	path = bundle/ppt
+	url = https://github.com/FuDesign2008/ppt.md.git
