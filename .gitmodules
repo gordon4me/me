@@ -10,6 +10,3 @@
 [submodule "bundle/translator"]
 	path = bundle/translator
 	url = https://github.com/FuDesign2008/translator.vim.git
-[submodule "bundle/ppt"]
-	path = bundle/ppt
-	url = https://github.com/FuDesign2008/ppt.md.git
